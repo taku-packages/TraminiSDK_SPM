@@ -14,7 +14,7 @@ let package = Package(
         .binaryTarget(
             name: "TraminiSDK",
             url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TraminiSDK/2.0.1/TraminiSDK-2.0.1.zip",
-            checksum: "392626322fb9c41279b8638fe2b0a02720a47911c407813ede640563e5ae1af4"
+            checksum: "b0e8722f95b948be1d1662e05689e86e1035dc04c896789d9aaa8be0c8f5e10d"
         )
     ]
 )
